@@ -1,0 +1,60 @@
+body{
+    background: #642B73;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #C6426E, #642B73);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #C6426E, #642B73); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+#main
+{
+    color: wheat;
+}
+h1{
+    word-spacing: 1px;
+    letter-spacing: 4px;
+    font-size: xxx-large;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.con
+{
+    width: 61px;
+    height: 38px;
+    font-size: x-large;
+    text-align: center;
+    color: wheat;
+}
+
+#ctof
+{
+    font-size: xxx-large;
+    transform: translate(515px, 50px);
+}
+
+#ftoc
+{
+    font-size: xxx-large;
+    transform: translate(516px, 90px);
+}
+
+#conv
+{
+    transform: translate(96px,-8px);
+    background-color: initial;
+    
+}
+
+#fahr
+{
+    transform: translate(33px,-11px);
+    background-color: initial;
+}
+
+.btn
+{   color: wheat;
+    width: 307px;
+    background-color: initial;
+    font-size: xxx-large;
+    transform: translate(515px,176px);
+}
